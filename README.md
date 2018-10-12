@@ -1,5 +1,6 @@
-# Covalence Full Stack Project Boilerplate
+# React Project Boilerplate
 This boilerplate includes build scripts and setup for a ReactJS front-end and an ExpressJS back-end.
+Additional support for scss transpile and use of custom Bootstrap variables.
 
 ### Getting Started
 Remember to run `npm install` to install all necessary dependencies. __Also read the Setting Environment Properties section below!__
